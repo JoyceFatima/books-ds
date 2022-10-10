@@ -20,6 +20,6 @@ Primario.args = {
 export const Secundario = Template.bind({})
 
 Secundario.args = {
-  text: "Ab botão prímario",
+  text: "Ab botão secundario",
   tipo: "secundario"
 } as AbBotaoProps
